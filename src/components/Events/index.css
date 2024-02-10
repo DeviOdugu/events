@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.card-container {
+  display: flex;
+}
+
+.main-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 25px;
+  padding-left: 50px;
+}
+
+.event-card {
+  background-color: #64748b;
+}
+
+.event-lists {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.event-register-status {
+  background-color: #ffffff;
+  padding: 10px;
+}
+
+.initial {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.initial {
+  text-align: center;
+}
+
+.r {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  background-color: #0967d2;
+  color: #ffffff;
+  border: none;
+  font-size: 8px;
+  padding: 10px;
+  border-radius: 2px;
+  padding-left: 20px;
+  padding-right: 20px;
+}

@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  font-family: 'Roboto';
+}
+.heading {
+  font-size: 15px;
+}
+.content {
+  font-size: 10px;
+}
